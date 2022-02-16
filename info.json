@@ -1,5 +1,8 @@
 {
     "name": "Russian",
     "code": "RU",
+    "ISO 639-1": "ru",
+    "ISO 639-2": "rus",
+    "ISO 639-3": "rus",
     "type": "alphabet"
 }
