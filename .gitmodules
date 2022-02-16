@@ -1,0 +1,3 @@
+[submodule "_scripts/utils"]
+	path = _scripts/utils
+	url = git@github.com:dolmetsch/utils.git
