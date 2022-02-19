@@ -1,5 +1,5 @@
-import readJSON from './utils/readJSON.mjs'
-import zipAlphabetCharacters from './utils/zipAlphabetCharacters.mjs'
+import readJSON from './utils/basic/readJSON.mjs'
+import zipAlphabetCharacters from './utils/langpacks/zipAlphabetCharacters.mjs'
 
 
 const alphabet = readJSON('../characters/alphabet.json')
